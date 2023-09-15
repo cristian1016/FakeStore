@@ -1,0 +1,17 @@
+#titulo {
+    color: #333;
+}
+
+.header {
+        display: flex;    
+        align-items: center;
+        justify-content: space-around;
+        border-bottom: 2px solid black;
+        height: 100px;
+        width: 100%;
+        margin-bottom: 100px;
+}
+
+.carrito img{
+    width: 50px;
+}
